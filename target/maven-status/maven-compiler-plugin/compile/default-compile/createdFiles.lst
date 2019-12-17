@@ -1,0 +1,4 @@
+com\cars\car_service\model\Vehicle.class
+com\cars\car_service\MyResource.class
+com\cars\car_service\repository\VehicleRepository.class
+com\cars\car_service\VehicleResource.class
